@@ -112,7 +112,7 @@ a.active {
     align-items: center;
 }
 
-.inp-width {
+.input-width {
     min-width: 300px;
 }
 
@@ -169,7 +169,7 @@ a.active {
     position: absolute;
     width: 600px;
     height: 400px;
-    background-color: rgba(206, 211, 224, 0.9);
+    background-color: white;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -188,7 +188,7 @@ a.active {
     width: 40px;
     font-size: 25px;
     font-weight: bold;
-    background-color: red;
+    background-color: black;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -197,11 +197,11 @@ a.active {
     cursor: pointer;
 }
 
-.billing {
+.order {
     margin-top: 10px;
 }
 
-.billing>* {
+.order>* {
     margin: 20px 0;
 }
 
